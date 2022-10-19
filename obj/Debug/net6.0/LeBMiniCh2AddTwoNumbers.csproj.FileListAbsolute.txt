@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/bin/Debug/net6.0/LeBMiniCh2AddTwoNumbers
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/bin/Debug/net6.0/LeBMiniCh2AddTwoNumbers.deps.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/bin/Debug/net6.0/LeBMiniCh2AddTwoNumbers.runtimeconfig.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/bin/Debug/net6.0/LeBMiniCh2AddTwoNumbers.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/bin/Debug/net6.0/LeBMiniCh2AddTwoNumbers.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.AssemblyInfo.cs
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/refint/LeBMiniCh2AddTwoNumbers.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/LeBMiniCh2AddTwoNumbers.genruntimeconfig.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh2AddTwoNumbers/obj/Debug/net6.0/ref/LeBMiniCh2AddTwoNumbers.dll

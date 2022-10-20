@@ -2,7 +2,7 @@
 # Brandon Le
 # 10-20-22
 # Mini Challenge 2 - Add Two Numbers
-# Project takes 2 user inputs and stores them as integers. Has a play again option with data validation if user doesn't enter YES. There's also data validation for when first two user inputs are not numbers.
+# Project takes 2 user inputs and stores them as integers. It then adds the two numbers and prints the sum into the terminal. Has a play again option with data validation if user doesn't enter YES. There's also data validation for when first two user inputs are not numbers.
 
 
 # Peer Review:

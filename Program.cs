@@ -2,12 +2,12 @@
 //10-18-22
 //Mini Challenge 2 - Add Two Numbers
 
-//need to add data validation
 string numberOne = "";
 string numberTwo = "";
 int numOne;
 int numTwo;
 bool playAgain = true;
+bool validNum = true;
 string userInput = "";
 
 
@@ -15,11 +15,25 @@ string userInput = "";
 while(playAgain == true)
 {
 Console.WriteLine("Let's do some math together!");
+Console.WriteLine("------------------------------");
 Console.WriteLine("Enter your first number:");
 numberOne = Console.ReadLine();
+validNum = Int32.TryParse(numberOne, out numOne);
+if (validNum == false)
+{
+    Console.WriteLine("Please enter a valid number.");
+    numberOne = Console.ReadLine();
+}
+
 
 Console.WriteLine("What do you want for your second number?");
 numberTwo = Console.ReadLine();
+validNum = Int32.TryParse(numberTwo, out numTwo);
+if (validNum == false)
+{
+    Console.WriteLine("Please enter a valid number.");
+    numberTwo = Console.ReadLine();
+}
 
 numOne = Convert.ToInt32(numberOne);
 numTwo = Convert.ToInt32(numberTwo);
